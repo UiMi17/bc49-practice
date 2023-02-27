@@ -1,1 +1,1 @@
-Basic JS scripts: vars&stuff.
+Basic JS scripts: vars & stuff.
